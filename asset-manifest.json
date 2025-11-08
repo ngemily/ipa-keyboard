@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ipa-keyboard/static/css/main.d673c8a5.css",
+    "main.js": "/ipa-keyboard/static/js/main.ccaff779.js",
+    "index.html": "/ipa-keyboard/index.html",
+    "main.d673c8a5.css.map": "/ipa-keyboard/static/css/main.d673c8a5.css.map",
+    "main.ccaff779.js.map": "/ipa-keyboard/static/js/main.ccaff779.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d673c8a5.css",
+    "static/js/main.ccaff779.js"
+  ]
+}
