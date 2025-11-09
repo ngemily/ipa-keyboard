@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ipa-keyboard/static/css/main.634dff12.css",
-    "main.js": "/ipa-keyboard/static/js/main.a3001e4c.js",
+    "main.css": "/ipa-keyboard/static/css/main.e7ab11ab.css",
+    "main.js": "/ipa-keyboard/static/js/main.0a16f187.js",
     "index.html": "/ipa-keyboard/index.html",
-    "main.634dff12.css.map": "/ipa-keyboard/static/css/main.634dff12.css.map",
-    "main.a3001e4c.js.map": "/ipa-keyboard/static/js/main.a3001e4c.js.map"
+    "main.e7ab11ab.css.map": "/ipa-keyboard/static/css/main.e7ab11ab.css.map",
+    "main.0a16f187.js.map": "/ipa-keyboard/static/js/main.0a16f187.js.map"
   },
   "entrypoints": [
-    "static/css/main.634dff12.css",
-    "static/js/main.a3001e4c.js"
+    "static/css/main.e7ab11ab.css",
+    "static/js/main.0a16f187.js"
   ]
 }
